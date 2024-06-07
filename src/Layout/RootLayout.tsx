@@ -64,19 +64,19 @@ const RootLayout = () => {
                 <span className="sr-only">Money-Trap</span>
               </Link>
               <Link
-                to="#"
+                to="/"
                 className="text-muted-foreground hover:text-foreground"
               >
                 Home
               </Link>
               <Link
-                to="#"
+                to="/expense"
                 className="text-muted-foreground hover:text-foreground"
               >
                 Expenses
               </Link>
               <Link
-                to="#"
+                to=""
                 className="text-muted-foreground hover:text-foreground"
               >
                 Category
